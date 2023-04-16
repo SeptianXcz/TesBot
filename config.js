@@ -51,28 +51,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://youtube.com/@Ziro-MD_Official' //Link Instagrammu
-global.sgh = 'https://youtube.com/@Ziro-MD_Official' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/CrVpOBoWyi5Aj1l1LqPlMW'
+global.sig = 'https://www.youtube.com/@stnr.s11999' //Link Instagrammu
+global.sgh = 'https://www.youtube.com/@stnr.s11999' //Link Githubmu
+global.sgc = '-'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
-global.snh = 'https://youtube.com/@Ziro-MD_Official' //Hmmm, Ini boleh kalian isi terserah :v
+global.snh = 'https://www.youtube.com/@stnr.s11999' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '081228070013' //Nomor Danamu
-global.ppulsa = '083863728401' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.co/ZiroMD' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '08978613993' //Nomor Danamu
+global.ppulsa = '08978613993' //Nomor SimCard Yang Kamu Pake
+global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62882007157628' //Nomor Bot
-global.nomorown = '6281228070013' //Nomor Owner
-global.namebot = '𝑍𝐼𝑅𝑂-𝑀𝐷⚡' //Nama Bot
-global.nameown = '༄𝑍𝐼𝑅𝑂☆࿐' // Nama Owner
-global.wame = 'https://api.whatsapp.com/send?phone=+6281228070013'
+global.nomorbot = '15702618933' //Nomor Bot
+global.nomorown = '628978613993' //Nomor Owner
+global.namebot = '𝙽𝚊𝚝𝚣-𝑀𝐷⚡' //Nama Bot
+global.nameown = '༄𝙽𝚊𝚝𝚣☆࿐' // Nama Owner
+global.wame = 'https://api.whatsapp.com/send?phone=+628978613993'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281228070013', '❦ ༄𝑍𝐼𝑅𝑂☆࿐ 🎐', true] //Ganti jd nomormu sama Namamu
+  ['628978613993', '❦ ༄𝙽𝚊𝚝𝚣☆࿐ 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -139,13 +139,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝑍𝐼𝑅𝑂-𝑀𝐷⚡  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ 𝑍𝐼𝑅𝑂-𝑀𝐷⚡ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝑍𝐼𝑅𝑂-𝑀𝐷⚡'
-global.namedoc = '𝑍𝐼𝑅𝑂-𝑀𝐷⚡' //Main Name Menu Document
+global.wm = '                「 𝙽𝚊𝚝𝚣-𝑀𝐷⚡  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ 𝙽𝚊𝚝𝚣-𝑀𝐷⚡ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝙽𝚊𝚝𝚣-𝑀𝐷⚡'
+global.namedoc = '𝙽𝚊𝚝𝚣-𝑀𝐷⚡' //Main Name Menu Document
 global.botdate = `⫹⫺ Day's: ${week} ${date}`
 global.bottime = `ᴛɪᴍᴇ: ${wktuwib}`
-global.titlebot = '🎋 ┊ 𝑍𝐼𝑅𝑂⚡ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ 𝙽𝚊𝚝𝚣⚡ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
 global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"])
 
@@ -386,7 +386,7 @@ global.wait = pickRandom(["Sabar Sayang 98% 𝚠𝚊𝚒𝚝!!", "Wᴀɪᴛɪɴ�
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 812 2807 0013'
+global.phn = '+628978613993'
 
 //Danied\\
 
